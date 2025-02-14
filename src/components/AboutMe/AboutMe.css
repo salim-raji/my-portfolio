@@ -1,0 +1,9 @@
+.about-me{
+    display: flex;
+}
+
+
+hr {
+    border: 1px solid black;
+    width: 100%; 
+  }
