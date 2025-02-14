@@ -7,7 +7,7 @@ function Introduction(){
                 <p>
                     Welcome To
                 </p>
-                <h1>SALIM RAJI</h1>
+                <h1>SALIM RAJIiiiiii</h1>
                 <h2>PORTFOLIO</h2>
                 <p>
                     Hello this is my personal website where you can find more about me,
