@@ -16,7 +16,6 @@ function AboutMe(){
                 <p>
                     I have a strong background in Frontend development using React/React Native and in Backend development using Node JS.
                 </p>
-                <img src={Signature} alt="hi" />
                 
             </div>
         </div>
